@@ -1,4 +1,4 @@
-# Week 1 – ML Fundamentals & Data Preprocessing
+# ML Fundamentals & Data Preprocessing
 
 ## Mini Project: Titanic Survival Prediction – Data Cleaning Project
 
