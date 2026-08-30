@@ -1,4 +1,4 @@
-# ML Fundamentals & Data Preprocessing
+## Week:1 ML Fundamentals & Data Preprocessing
 
 ## Mini Project: Titanic Survival Prediction – Data Cleaning Project
 
@@ -34,4 +34,37 @@ The objective of this project is to understand basic machine learning concepts a
 
 - `Week1_Titanic_Data_Preprocessing.ipynb` – Complete Jupyter Notebook
 - `titanic_cleaned.csv` – Cleaned Titanic dataset
+- `README.md` – Project documentation
+
+
+---
+
+## Week 2: Logistic Regression – Titanic Survival Prediction
+
+### Objective
+
+The objective of this task is to train a Logistic Regression model
+on the cleaned Titanic dataset to predict passenger survival.
+
+### Tasks Completed
+
+- Loaded the cleaned Titanic dataset
+- Selected relevant features for prediction
+- Selected `Survived` as the target variable
+- Split the dataset into training and testing sets
+- Trained a Logistic Regression model
+- Predicted passenger survival
+- Evaluated the model using accuracy
+- Created a confusion matrix
+
+### Model Performance
+
+- Model: Logistic Regression
+- Accuracy: 81.01%
+
+### Files
+
+- `Week1_Titanic_Data_Preprocessing.ipynb` – Complete data preprocessing notebook
+- `titanic_cleaned.csv` – Cleaned Titanic dataset
+- `Titanic_Logistic_Regression.ipynb` – Week 2 Logistic Regression notebook
 - `README.md` – Project documentation
